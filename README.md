@@ -5,8 +5,8 @@
 ### Sobre mim ✏️
 
  Sou formado em engenharia mecânica e atuo na area de planejamento de manutenção,
- atualmente estou me especializando em ferramentas de analise de dados. No meu Medium possuo alguns projetos que executei e que estou trabalhando.<br/>
-O meu dia a dia consiste em analisar indicadores de falha dos equipamento e identificar pontos de melhoria e correção para serem executados, tambem realizado reuniões diárias com diversos times para demandas externa que envolvam a manutenção. Com os dados coletados defino quais as atividades que serão executadas de acordo com a criticidade e urgencia, e designo quais técnicos irão executar.
+ Atualmente em transição estruturada para a área de Engenharia de Dados, cursando
+MBA na área e aplicando SQL, Power BI, Tableau e Python em projetos analíticos.
 
 [![Vbiggue's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbiggue&show_icons=true&theme=dark)](https://github.com/vbiggue/github-readme-stats)
 
